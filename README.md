@@ -25,5 +25,5 @@ https://dice-game-inky-zeta.vercel.app/
 
 ### 🔹 Clone the Repository
 ```sh
-git clone https://github.com/yourusername/dice-game.git
+git clone https://github.com/imortal001/dice-game.git
 cd dice-game
